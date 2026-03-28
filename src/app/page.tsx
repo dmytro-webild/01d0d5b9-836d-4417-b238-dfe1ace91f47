@@ -130,7 +130,7 @@ export default function LandingPage() {
           role: "Homeowner",
           company: "Private Residence",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-men-wearing-helmets_23-2148751995.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-men-wearing-helmets_23-2148751995.jpg?_wi=1",
         },
         {
           id: "2",
@@ -162,7 +162,7 @@ export default function LandingPage() {
           role: "Architect",
           company: "Vane Design Group",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-men-wearing-helmets_23-2148751995.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-men-wearing-helmets_23-2148751995.jpg?_wi=2",
         },
       ]}
       kpiItems={[
